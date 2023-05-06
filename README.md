@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Erdajt</h1>
-<h4 align="center">A junior developer and a engineering students at British Gymnasium of Technology, see my <a href="https://erdajtsopjani.github.io">resume</a> for more</h4>
+<h4 align="center">A junior developer and a engineering students at British Gymnasium of Technology, see <a href="https://erdajtsopjani.github.io">my resume</a> for more</h4>
 </div>
 
 <div align="center">

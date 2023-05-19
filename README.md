@@ -104,7 +104,7 @@
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/ErdajtSopjani?tab=repositories">
   <img alt="Erdajt's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ErdajtSopjani&theme=dracula" /></a>
  
 <br/>

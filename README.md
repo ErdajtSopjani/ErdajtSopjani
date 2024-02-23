@@ -1,8 +1,6 @@
-<div align="center">
-<h1 align="center">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Erdajt</h1>
-<h4 align="center">A junior developer and an engineering student at British Gymnasium of Technology, see <a href="https://erdajtsopjani.github.io">my resume</a> for more</h4>
-</div>
 
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Erdajt Sopjani ======================================================================================================================================  Software Engineer -----------------  As a 16-year-old software engineer, I am honored to be a part of the ever-evolving tech industry. I have a deep passion for coding, and I am constantly seeking new challenges to push my limits and improve my skills. I believe that my projects have the potential to make a real difference in the world, and I am committed to continuing my growth as a developer.  * 🌍  I'm based in Kosovo * 🖥️  See my portfolio at [MyPortofolio](http://erdajtsopjani.github.io) * ✉️  You can contact me at [erdajt.sopjani@bgt.school](mailto:erdajt.sopjani@bgt.school)
 
 <div align="center">
   <a href="https://erdajtsopjani.github.io/">

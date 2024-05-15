@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Erdajt</h1>
-<h4 align="center">A junior developer and an engineering student at British Gymnasium of Technology, see <a href="https://erdajtsopjani.github.io">my resume</a> for more</h4>
+<h4 align="center">A junior developer and an engineering student at British Gymnasium of Technology, see <a href="https://erdajtsopjani.netlify.app">my resume</a> for more</h4>
 </div>
 
 <div align="center">

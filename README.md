@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://erdajtsopjani.github.io/">
+  <a href="https://erdajtsopjani.dev/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -44,7 +44,7 @@
 <!--  <a href="https://github.com/ErdajtSopjani" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=1999Erdajt&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a> -->
-  <a href="https://erdajtsopjani.github.io"><img align="center" 
+  <a href="https://erdajtsopjani.dev"><img align="center" 
      src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
      alt="website" /></a>
   </p>

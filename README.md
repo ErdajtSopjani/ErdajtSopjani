@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://erdajtsopjani.dev/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/ErdajtSopjani/ErdajtSopjani/blob/main/assets/snake.svg"
        alt="snake" /></a>
 </div>
 

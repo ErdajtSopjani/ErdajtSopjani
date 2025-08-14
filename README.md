@@ -1,4 +1,3 @@
-
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Erdajt</h1>
 <h4 align="center">A young and passionate software engineer, see <a href="https://erdajtsopjani.dev">my resume</a> for more</h4>
@@ -6,7 +5,7 @@
 
 <div align="center">
   <a href="https://erdajtsopjani.dev/">
-  <img  src="https://github.com/ErdajtSopjani/ErdajtSopjani/blob/main/assets/snake.svg"
+  <img  src="https://github.com/erdajt/ErdajtSopjani/blob/main/assets/snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -41,7 +40,7 @@
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
-<!--  <a href="https://github.com/ErdajtSopjani" target="blank"><img align="center" 
+<!--  <a href="https://github.com/erdajt" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=1999Erdajt&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a> -->
   <a href="https://erdajtsopjani.dev"><img align="center" 
@@ -49,15 +48,15 @@
      alt="website" /></a>
   </p>
   <p align="center">
-  <a href="https://github.com/ErdajtSopjani" target="blank"><img align="center" 
+  <a href="https://github.com/erdajt" target="blank"><img align="center" 
      src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
      alt="page built"/></a>
   </p>
  <p align="center">
-  <a href="https://github.com/ErdajtSopjani" target="blank"><img align="center" 
+  <a href="https://github.com/erdajt" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
      alt="lisense" /></a>
-  <a href="https://github.com/ErdajtSopjani"><img align="center"
+  <a href="https://github.com/erdajt"><img align="center"
      src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
      alt="work on my machine" /></a>
  </p>
@@ -79,7 +78,7 @@
           alt="ErdajtSopjani :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/ErdajtSopjani">
+          <a href="https://github.com/erdajt">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erdajtsopjani&theme=gruvbox&layout=compact&hide_border=true"
           alt="ErdajtSopjani :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erdajtsopjani&theme=gruvbox&layout=compact&hide_border=true"
@@ -90,7 +89,7 @@
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/ErdajtSopjani/">
+          <a href="https://github.com/erdajt/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ErdajtSopjani&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ErdajtSopjani&theme=gruvbox&hide_border=true" />
           </a>
@@ -105,7 +104,7 @@
   <samp>
   <br/>
   <h2 align="center">Latest Contribution</h2>
-  <a href="https://github.com/ErdajtSopjani/github-readme-activity-graph">
+  <a href="https://github.com/erdajt/github-readme-activity-graph">
     <img alt="Erdajt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ErdajtSopjani&theme=github-compact&hide_border=true">
   </a>
 <br/>
